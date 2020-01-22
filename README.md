@@ -8,9 +8,9 @@ About NWMSU
 ## Images
 ![NW](https://upload.wikimedia.org/wikipedia/en/3/32/NW_Missouri_State_seal.png)
 ## Lists
--ckm
--knnc
--lccn
+- ckm
+- knnc
+- lccn
 
 1. one
 1. two
