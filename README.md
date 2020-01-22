@@ -3,6 +3,10 @@ This is tested repository
 ## Heading
 About NWMSU
 
+## Emphasis
+*This text will be italic*
+**This text will be bold**
+
 ## Links
 [NWMSU](https://www.nwmissouri.edu/)
 ## Images
@@ -16,3 +20,7 @@ About NWMSU
 1. two
 1. three
 
+##Block Quotes
+Hello!
+>four
+>five
