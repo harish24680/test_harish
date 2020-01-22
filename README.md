@@ -6,6 +6,7 @@ About NWMSU
 
 ## Emphasis
 *This text will be italic*
+
 **This text will be bold**
 
 ## Links
