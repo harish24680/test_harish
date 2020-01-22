@@ -1,4 +1,4 @@
-# test_harishTadka
+# test_harishThadka
 
 This is tested repository
 ## Heading
